@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder,Mean Apnea–Hypopnea Duration (s),Amount of Smoking (Cigarettes/Day),Neck Thickness (cm),Tongue Size,Use of Muscle-Relaxing Substances,Smoking Habit,Common Nasal Congestion Causes,Family History of Sleep Apnea,Past Stroke,Type 2 Diabetes
+1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,None,18,0,35,Large,Narcotic Pain Medicines,2,Seasonal Allergies,Mild History,Multiple Strokes,No Diabetes
+2,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None,12,15,48,Large,Sedatives,0,Year-round Congestion,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+3,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None,15,10,48,Very Large,Sedatives,0,Year-round Congestion,No History,None,Diagnosed Diabetes
+4,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,15,0,45,Very Large,Narcotic Pain Medicines,2,Breathing Issues,Mild History,Major Stroke,Diagnosed Diabetes
+5,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,18,15,38,Very Large,Tranquilizers,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+6,Male,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia,12,0,48,Mildly Enlarged,Sedatives,2,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,Long-Term Diabetes
+7,Male,29,Teacher,6.3,6,40,7,Obese,140/90,82,3500,Insomnia,15,0,35,Normal,Narcotic Pain Medicines,0,Year-round Congestion,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+8,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,10,45,Very Large,Sedatives,30,Seasonal Allergies,Mild History,Multiple Strokes,Pre-Diabetic
+9,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,10,41,Mildly Enlarged,Narcotic Pain Medicines,2,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Uncontrolled Diabetes
+10,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,10,38,Mildly Enlarged,Narcotic Pain Medicines,2,None,Mild History,Multiple Strokes,Pre-Diabetic
+11,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,12,15,35,Very Large,Sedatives,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+12,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,18,0,48,Large,Narcotic Pain Medicines,20,Seasonal Allergies,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+13,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,12,10,38,Mildly Enlarged,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Major Stroke,Diagnosed Diabetes
+14,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,18,20,41,Very Large,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+15,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,15,15,45,Normal,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+16,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,12,5,41,Very Large,Sedatives,2,Year-round Congestion,High-Risk Family,None,No Diabetes
+17,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea,18,10,38,Large,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Stroke Survivor,No Diabetes
+18,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,Sleep Apnea,12,5,48,Normal,Sedatives,20,Year-round Congestion,No History,Minor Stroke,Diagnosed Diabetes
+19,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Insomnia,12,0,48,Mildly Enlarged,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Stroke Survivor,Pre-Diabetic
+20,Male,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,18,5,38,Mildly Enlarged,Narcotic Pain Medicines,0,None,Mild History,Multiple Strokes,No Diabetes
+21,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,22,0,38,Mildly Enlarged,Narcotic Pain Medicines,30,Breathing Issues,High-Risk Family,Multiple Strokes,Pre-Diabetic
+22,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,12,20,45,Mildly Enlarged,Narcotic Pain Medicines,0,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,Uncontrolled Diabetes
+23,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,18,5,35,Very Large,Sedatives,20,Year-round Congestion,Strong Genetic Inheritance,Minor Stroke,Uncontrolled Diabetes
+24,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,12,0,41,Very Large,Sedatives,0,Seasonal Allergies,High-Risk Family,Stroke Survivor,Uncontrolled Diabetes
+25,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,0,48,Very Large,Sedatives,0,None,High-Risk Family,Multiple Strokes,Pre-Diabetic
+26,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,12,10,41,Large,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,Multiple Strokes,Diagnosed Diabetes
+27,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,10,35,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,Moderate Genetic Risk,None,Long-Term Diabetes
+28,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,18,5,41,Normal,Narcotic Pain Medicines,0,Year-round Congestion,No History,Stroke Survivor,Diagnosed Diabetes
+29,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,12,5,48,Large,Sedatives,0,Breathing Issues,Strong Genetic Inheritance,Stroke Survivor,Pre-Diabetic
+30,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,12,15,38,Normal,Narcotic Pain Medicines,0,None,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+31,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea,18,0,48,Normal,Narcotic Pain Medicines,0,None,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+32,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Insomnia,12,10,41,Very Large,Sedatives,2,None,Strong Genetic Inheritance,Multiple Strokes,Pre-Diabetic
+33,Female,31,Nurse,7.9,8,75,4,Normal Weight,117/76,69,6800,None,18,15,45,Normal,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Major Stroke,Diagnosed Diabetes
+34,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,18,0,45,Mildly Enlarged,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Mild History,Major Stroke,No Diabetes
+35,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,15,15,45,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,Mild History,None,Pre-Diabetic
+36,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,15,0,48,Very Large,Tranquilizers,2,Breathing Issues,No History,Multiple Strokes,No Diabetes
+37,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,18,10,38,Normal,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Minor Stroke,Long-Term Diabetes
+38,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,12,5,41,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+39,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,18,0,38,Very Large,Sedatives,2,Year-round Congestion,High-Risk Family,None,Pre-Diabetic
+40,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,12,0,41,Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+41,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,12,15,48,Mildly Enlarged,Narcotic Pain Medicines,0,Seasonal Allergies,High-Risk Family,None,Uncontrolled Diabetes
+42,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,18,10,48,Large,Tranquilizers,2,Year-round Congestion,Moderate Genetic Risk,None,No Diabetes
+43,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,18,10,35,Mildly Enlarged,Narcotic Pain Medicines,2,None,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+44,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,15,48,Very Large,Sedatives,2,Breathing Issues,Strong Genetic Inheritance,None,Diagnosed Diabetes
+45,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,15,5,48,Mildly Enlarged,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+46,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,12,0,45,Mildly Enlarged,Narcotic Pain Medicines,0,None,Strong Genetic Inheritance,Minor Stroke,Uncontrolled Diabetes
+47,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,12,15,41,Large,Sedatives,2,Seasonal Allergies,Mild History,Multiple Strokes,Pre-Diabetic
+48,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,18,10,38,Normal,Narcotic Pain Medicines,0,Chronic Nasal Blockage,Strong Genetic Inheritance,Multiple Strokes,Long-Term Diabetes
+49,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,18,20,48,Normal,Narcotic Pain Medicines,2,Year-round Congestion,Mild History,Multiple Strokes,No Diabetes
+50,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea,22,10,35,Large,Narcotic Pain Medicines,30,Seasonal Allergies,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+51,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,18,15,41,Very Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,No History,Minor Stroke,Diagnosed Diabetes
+52,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,18,15,38,Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,High-Risk Family,Minor Stroke,Pre-Diabetic
+53,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,12,15,48,Large,Narcotic Pain Medicines,2,Breathing Issues,No History,None,Diagnosed Diabetes
+54,Male,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,15,0,48,Large,Narcotic Pain Medicines,30,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+55,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,12,5,48,Normal,Sedatives,2,None,High-Risk Family,Major Stroke,Pre-Diabetic
+56,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,5,45,Large,Alcohol,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+57,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,22,5,41,Very Large,Narcotic Pain Medicines,20,Breathing Issues,High-Risk Family,None,Long-Term Diabetes
+58,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,15,0,41,Very Large,Sedatives,2,None,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+59,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,0,48,Very Large,Tranquilizers,0,Seasonal Allergies,Moderate Genetic Risk,Minor Stroke,Uncontrolled Diabetes
+60,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,18,10,48,Very Large,Tranquilizers,0,Year-round Congestion,Moderate Genetic Risk,Multiple Strokes,Pre-Diabetic
+61,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,10,41,Large,Narcotic Pain Medicines,0,Year-round Congestion,Mild History,Multiple Strokes,Pre-Diabetic
+62,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,5,48,Large,Sedatives,2,Seasonal Allergies,No History,Multiple Strokes,No Diabetes
+63,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,12,15,38,Very Large,Sedatives,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+64,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,18,10,35,Very Large,Narcotic Pain Medicines,0,Year-round Congestion,Strong Genetic Inheritance,Major Stroke,No Diabetes
+65,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,12,5,41,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,Strong Genetic Inheritance,Major Stroke,No Diabetes
+66,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,18,10,48,Normal,Narcotic Pain Medicines,2,None,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+67,Male,32,Accountant,7.2,8,50,6,Normal Weight,118/76,68,7000,None,12,10,38,Mildly Enlarged,Narcotic Pain Medicines,30,Chronic Nasal Blockage,Strong Genetic Inheritance,Major Stroke,Long-Term Diabetes
+68,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,Insomnia,12,15,35,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,No History,Multiple Strokes,Diagnosed Diabetes
+69,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,12,0,35,Very Large,Tranquilizers,2,Chronic Nasal Blockage,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+70,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,22,20,48,Large,Tranquilizers,0,Chronic Nasal Blockage,High-Risk Family,Stroke Survivor,Pre-Diabetic
+71,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,12,5,48,Large,Narcotic Pain Medicines,0,Breathing Issues,Mild History,Major Stroke,Diagnosed Diabetes
+72,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,15,0,41,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,No Diabetes
+73,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,18,0,41,Very Large,Tranquilizers,2,Seasonal Allergies,No History,Major Stroke,Pre-Diabetic
+74,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,18,5,48,Very Large,Narcotic Pain Medicines,2,Breathing Issues,Moderate Genetic Risk,Major Stroke,Diagnosed Diabetes
+75,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,15,38,Large,Sedatives,30,Breathing Issues,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+76,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,20,41,Large,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,None,No Diabetes
+77,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,15,5,41,Very Large,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,Major Stroke,Pre-Diabetic
+78,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,12,15,38,Mildly Enlarged,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+79,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,0,48,Normal,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+80,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,18,10,41,Normal,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,18,20,38,Very Large,Sedatives,0,None,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,18,20,35,Large,Narcotic Pain Medicines,2,None,Strong Genetic Inheritance,Multiple Strokes,Pre-Diabetic
+83,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,12,15,45,Very Large,Narcotic Pain Medicines,30,Seasonal Allergies,High-Risk Family,Stroke Survivor,No Diabetes
+84,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,22,15,41,Normal,Narcotic Pain Medicines,30,Year-round Congestion,Strong Genetic Inheritance,Stroke Survivor,Long-Term Diabetes
+85,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,None,18,0,35,Very Large,Narcotic Pain Medicines,0,Breathing Issues,Moderate Genetic Risk,Stroke Survivor,Pre-Diabetic
+86,Female,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,10,45,Mildly Enlarged,Sedatives,0,Seasonal Allergies,High-Risk Family,None,Long-Term Diabetes
+87,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None,12,0,48,Very Large,Narcotic Pain Medicines,0,Year-round Congestion,High-Risk Family,None,Diagnosed Diabetes
+88,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None,12,15,35,Mildly Enlarged,Narcotic Pain Medicines,2,Breathing Issues,Moderate Genetic Risk,Minor Stroke,Diagnosed Diabetes
+89,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,12,0,38,Mildly Enlarged,Narcotic Pain Medicines,2,Chronic Nasal Blockage,High-Risk Family,Minor Stroke,Pre-Diabetic
+90,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,18,10,35,Very Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Strong Genetic Inheritance,Stroke Survivor,Pre-Diabetic
+91,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,15,0,41,Normal,Sedatives,2,None,Moderate Genetic Risk,Minor Stroke,Long-Term Diabetes
+92,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,12,15,38,Large,Sedatives,2,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+93,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,None,12,15,38,Very Large,Narcotic Pain Medicines,0,Breathing Issues,Mild History,Minor Stroke,Diagnosed Diabetes
+94,Male,35,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,18,15,35,Normal,Narcotic Pain Medicines,0,Seasonal Allergies,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+95,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,Insomnia,18,0,35,Large,Alcohol,30,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+96,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,12,15,45,Large,Narcotic Pain Medicines,2,Seasonal Allergies,Mild History,None,Diagnosed Diabetes
+97,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,15,41,Large,Sedatives,2,Year-round Congestion,Moderate Genetic Risk,Multiple Strokes,Pre-Diabetic
+98,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,22,10,38,Mildly Enlarged,Narcotic Pain Medicines,0,Year-round Congestion,Moderate Genetic Risk,Minor Stroke,No Diabetes
+99,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None,22,0,48,Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Mild History,Minor Stroke,Diagnosed Diabetes
+100,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None,12,0,45,Large,Narcotic Pain Medicines,0,None,No History,Multiple Strokes,No Diabetes
+101,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,18,0,45,Very Large,Tranquilizers,2,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,No Diabetes
+102,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,12,0,41,Large,Narcotic Pain Medicines,2,Year-round Congestion,Mild History,None,Diagnosed Diabetes
+103,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,18,15,35,Very Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Moderate Genetic Risk,Stroke Survivor,No Diabetes
+104,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea,12,15,41,Very Large,Sedatives,2,Chronic Nasal Blockage,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+105,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,12,10,48,Very Large,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+106,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia,18,10,38,Large,Narcotic Pain Medicines,30,Chronic Nasal Blockage,Moderate Genetic Risk,Minor Stroke,Diagnosed Diabetes
+107,Female,37,Nurse,6.1,6,42,6,Overweight,126/83,77,4200,None,12,0,38,Normal,Narcotic Pain Medicines,0,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+108,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,None,18,10,41,Very Large,Sedatives,0,Breathing Issues,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+109,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,None,12,5,35,Large,Narcotic Pain Medicines,20,Year-round Congestion,No History,Minor Stroke,Long-Term Diabetes
+110,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,12,5,41,Large,Narcotic Pain Medicines,2,None,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+111,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,15,48,Mildly Enlarged,Narcotic Pain Medicines,2,Breathing Issues,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+112,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,12,10,35,Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,None,Long-Term Diabetes
+113,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,15,0,38,Very Large,Alcohol,30,Seasonal Allergies,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+114,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,12,10,35,Mildly Enlarged,Tranquilizers,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+115,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,18,15,38,Large,Narcotic Pain Medicines,30,Breathing Issues,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+116,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,10,48,Very Large,Alcohol,2,None,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+117,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,18,0,35,Mildly Enlarged,Sedatives,2,Chronic Nasal Blockage,Moderate Genetic Risk,Minor Stroke,No Diabetes
+118,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,20,48,Mildly Enlarged,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,None,Pre-Diabetic
+119,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,0,48,Mildly Enlarged,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Stroke Survivor,Pre-Diabetic
+120,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,0,35,Mildly Enlarged,Sedatives,2,Seasonal Allergies,Mild History,None,Pre-Diabetic
+121,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,0,35,Mildly Enlarged,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Major Stroke,Diagnosed Diabetes
+122,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,15,10,35,Very Large,Alcohol,30,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+123,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,22,15,48,Mildly Enlarged,Tranquilizers,2,None,High-Risk Family,None,No Diabetes
+124,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,12,15,35,Very Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+125,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,18,15,48,Mildly Enlarged,Alcohol,20,Chronic Nasal Blockage,Mild History,Multiple Strokes,Pre-Diabetic
+126,Female,37,Nurse,7.5,8,60,4,Normal Weight,120/80,70,8000,None,12,15,38,Large,Narcotic Pain Medicines,2,None,Mild History,Major Stroke,Diagnosed Diabetes
+127,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,12,0,48,Large,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,Multiple Strokes,Diagnosed Diabetes
+128,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,18,10,35,Large,Narcotic Pain Medicines,20,Seasonal Allergies,Mild History,Multiple Strokes,No Diabetes
+129,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,12,15,38,Mildly Enlarged,Narcotic Pain Medicines,30,Seasonal Allergies,Strong Genetic Inheritance,None,Diagnosed Diabetes
+130,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,12,15,41,Very Large,Narcotic Pain Medicines,20,Year-round Congestion,Strong Genetic Inheritance,Stroke Survivor,No Diabetes
+131,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,18,15,38,Very Large,Alcohol,2,Seasonal Allergies,Moderate Genetic Risk,Stroke Survivor,Diagnosed Diabetes
+132,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,18,15,41,Large,Narcotic Pain Medicines,0,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Long-Term Diabetes
+133,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,12,5,35,Mildly Enlarged,Alcohol,0,Year-round Congestion,Moderate Genetic Risk,Multiple Strokes,Diagnosed Diabetes
+134,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,18,10,48,Mildly Enlarged,Narcotic Pain Medicines,0,Breathing Issues,Strong Genetic Inheritance,Stroke Survivor,Diagnosed Diabetes
+135,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,12,10,48,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,No History,Minor Stroke,Pre-Diabetic
+136,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,15,10,48,Large,Sedatives,30,Breathing Issues,Mild History,Minor Stroke,Uncontrolled Diabetes
+137,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,12,10,35,Mildly Enlarged,Alcohol,0,Breathing Issues,Mild History,Stroke Survivor,Long-Term Diabetes
+138,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,12,20,48,Very Large,Tranquilizers,0,Year-round Congestion,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+139,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,12,0,48,Mildly Enlarged,Sedatives,0,Year-round Congestion,Mild History,None,No Diabetes
+140,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,15,15,38,Mildly Enlarged,Narcotic Pain Medicines,0,Seasonal Allergies,Mild History,Minor Stroke,Diagnosed Diabetes
+141,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,22,5,38,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+142,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,18,15,45,Very Large,Tranquilizers,0,Year-round Congestion,No History,Major Stroke,Uncontrolled Diabetes
+143,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,18,15,48,Mildly Enlarged,Narcotic Pain Medicines,0,Chronic Nasal Blockage,No History,None,Long-Term Diabetes
+144,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,12,20,48,Very Large,Tranquilizers,0,Breathing Issues,Strong Genetic Inheritance,Stroke Survivor,Long-Term Diabetes
+145,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,Sleep Apnea,18,0,41,Mildly Enlarged,Tranquilizers,20,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,Uncontrolled Diabetes
+146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,18,10,38,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Mild History,Multiple Strokes,No Diabetes
+147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia,18,10,38,Normal,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Pre-Diabetic
+148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia,22,10,41,Large,Sedatives,2,Breathing Issues,Mild History,Multiple Strokes,No Diabetes
+149,Female,39,Lawyer,6.9,7,50,6,Normal Weight,128/85,75,5500,None,12,0,48,Very Large,Sedatives,30,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+150,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,None,18,0,41,Very Large,Narcotic Pain Medicines,2,Breathing Issues,No History,Multiple Strokes,No Diabetes
+151,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,None,18,15,41,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,No History,Multiple Strokes,No Diabetes
+152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,18,10,38,Large,Narcotic Pain Medicines,2,Breathing Issues,Mild History,Stroke Survivor,Long-Term Diabetes
+153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,15,0,35,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,Mild History,Minor Stroke,Pre-Diabetic
+154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,12,5,48,Large,Narcotic Pain Medicines,0,None,Strong Genetic Inheritance,Multiple Strokes,Pre-Diabetic
+155,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,15,20,45,Very Large,Tranquilizers,2,Seasonal Allergies,No History,Minor Stroke,Uncontrolled Diabetes
+156,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,12,20,35,Very Large,Sedatives,0,Year-round Congestion,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+157,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,12,0,48,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,Mild History,Stroke Survivor,Pre-Diabetic
+158,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,18,20,41,Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+159,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,12,0,38,Very Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Mild History,Multiple Strokes,Diagnosed Diabetes
+160,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,12,15,41,Normal,Narcotic Pain Medicines,2,Year-round Congestion,No History,None,No Diabetes
+161,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,18,0,48,Large,Narcotic Pain Medicines,2,None,High-Risk Family,None,Diagnosed Diabetes
+162,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,None,12,20,35,Normal,Narcotic Pain Medicines,2,None,High-Risk Family,Stroke Survivor,Uncontrolled Diabetes
+163,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,None,18,0,35,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,Pre-Diabetic
+164,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None,12,10,41,Very Large,Narcotic Pain Medicines,2,Breathing Issues,Moderate Genetic Risk,Multiple Strokes,Diagnosed Diabetes
+165,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None,18,0,48,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+166,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia,12,0,48,Mildly Enlarged,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Stroke Survivor,Pre-Diabetic
+167,Male,41,Engineer,7.3,8,70,6,Normal Weight,121/79,72,6200,None,18,10,48,Normal,Sedatives,2,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+168,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,None,18,0,35,Mildly Enlarged,Narcotic Pain Medicines,0,Seasonal Allergies,Strong Genetic Inheritance,Major Stroke,Uncontrolled Diabetes
+169,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,None,12,10,38,Normal,Tranquilizers,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Pre-Diabetic
+170,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,18,0,45,Normal,Narcotic Pain Medicines,2,None,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+171,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,18,0,35,Mildly Enlarged,Alcohol,0,Seasonal Allergies,Mild History,Minor Stroke,Uncontrolled Diabetes
+172,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,22,0,38,Very Large,Sedatives,2,Year-round Congestion,Mild History,Stroke Survivor,Long-Term Diabetes
+173,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,15,20,48,Mildly Enlarged,Narcotic Pain Medicines,0,Chronic Nasal Blockage,High-Risk Family,None,Diagnosed Diabetes
+174,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,15,15,41,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+175,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,18,10,41,Mildly Enlarged,Narcotic Pain Medicines,0,Seasonal Allergies,Mild History,Multiple Strokes,Diagnosed Diabetes
+176,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,12,0,41,Large,Tranquilizers,0,Breathing Issues,Strong Genetic Inheritance,Stroke Survivor,No Diabetes
+177,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,18,15,45,Large,Tranquilizers,0,Breathing Issues,High-Risk Family,Multiple Strokes,Pre-Diabetic
+178,Male,42,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,10,45,Large,Narcotic Pain Medicines,2,Year-round Congestion,Moderate Genetic Risk,Multiple Strokes,No Diabetes
+179,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,15,10,48,Very Large,Sedatives,2,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+180,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,12,0,35,Large,Alcohol,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+181,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,12,5,38,Very Large,Narcotic Pain Medicines,0,Chronic Nasal Blockage,No History,Stroke Survivor,Diagnosed Diabetes
+182,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,22,20,48,Large,Sedatives,2,None,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+183,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,18,10,38,Very Large,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,Multiple Strokes,Uncontrolled Diabetes
+184,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,12,10,48,Normal,Narcotic Pain Medicines,0,None,High-Risk Family,Multiple Strokes,No Diabetes
+185,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,12,0,41,Very Large,Narcotic Pain Medicines,0,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+186,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,12,20,48,Mildly Enlarged,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+187,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,18,0,48,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+188,Male,43,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,12,10,41,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+189,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,12,20,35,Very Large,Narcotic Pain Medicines,0,None,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+190,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,22,10,35,Large,Narcotic Pain Medicines,2,Year-round Congestion,No History,Multiple Strokes,Diagnosed Diabetes
+191,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,18,0,45,Mildly Enlarged,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Stroke Survivor,Long-Term Diabetes
+192,Male,43,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,12,5,35,Very Large,Alcohol,2,None,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+193,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,15,41,Mildly Enlarged,Sedatives,30,Seasonal Allergies,Strong Genetic Inheritance,Major Stroke,No Diabetes
+194,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,5,48,Large,Sedatives,0,Seasonal Allergies,Mild History,Multiple Strokes,Diagnosed Diabetes
+195,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,5,35,Normal,Narcotic Pain Medicines,2,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+196,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,10,48,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+197,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,15,15,41,Very Large,Narcotic Pain Medicines,2,None,Mild History,None,Diagnosed Diabetes
+198,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,18,10,35,Very Large,Alcohol,2,Seasonal Allergies,No History,Multiple Strokes,Long-Term Diabetes
+199,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,0,41,Very Large,Narcotic Pain Medicines,0,Year-round Congestion,Mild History,Multiple Strokes,Pre-Diabetic
+200,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,15,0,48,Very Large,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Multiple Strokes,Pre-Diabetic
+201,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,12,10,48,Very Large,Narcotic Pain Medicines,2,None,Strong Genetic Inheritance,Multiple Strokes,Pre-Diabetic
+202,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,18,10,38,Very Large,Narcotic Pain Medicines,30,Breathing Issues,Moderate Genetic Risk,None,Pre-Diabetic
+203,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,15,10,48,Large,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,No Diabetes
+204,Male,43,Engineer,6.9,6,47,7,Normal Weight,117/76,69,6800,None,18,10,38,Very Large,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Minor Stroke,Long-Term Diabetes
+205,Male,43,Engineer,7.6,8,75,4,Overweight,122/80,68,6800,None,12,10,48,Large,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,No Diabetes
+206,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,12,10,48,Large,Alcohol,20,Chronic Nasal Blockage,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+207,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,12,10,41,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+208,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,12,10,48,Very Large,Narcotic Pain Medicines,30,Breathing Issues,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+209,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,18,10,35,Normal,Narcotic Pain Medicines,0,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+210,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,12,5,41,Very Large,Narcotic Pain Medicines,0,Chronic Nasal Blockage,High-Risk Family,Minor Stroke,Long-Term Diabetes
+211,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,18,0,38,Very Large,Sedatives,0,Breathing Issues,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+212,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,22,0,35,Mildly Enlarged,Narcotic Pain Medicines,0,Chronic Nasal Blockage,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+213,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,12,15,41,Large,Tranquilizers,0,Breathing Issues,Moderate Genetic Risk,Major Stroke,Pre-Diabetic
+214,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,12,0,38,Very Large,Alcohol,2,None,Strong Genetic Inheritance,Major Stroke,Pre-Diabetic
+215,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,18,20,35,Large,Narcotic Pain Medicines,20,None,Mild History,Major Stroke,Diagnosed Diabetes
+216,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,12,0,41,Large,Sedatives,2,None,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+217,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,12,0,48,Very Large,Narcotic Pain Medicines,30,Seasonal Allergies,No History,Minor Stroke,Diagnosed Diabetes
+218,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,12,20,38,Mildly Enlarged,Sedatives,0,Breathing Issues,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+219,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Sleep Apnea,12,0,45,Very Large,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+220,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea,12,10,48,Very Large,Narcotic Pain Medicines,0,Chronic Nasal Blockage,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+221,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,18,0,48,Mildly Enlarged,Tranquilizers,20,Breathing Issues,High-Risk Family,Major Stroke,Diagnosed Diabetes
+222,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,12,15,41,Mildly Enlarged,Narcotic Pain Medicines,20,Seasonal Allergies,Mild History,Major Stroke,Long-Term Diabetes
+223,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,18,10,38,Large,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Stroke Survivor,Long-Term Diabetes
+224,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,12,0,48,Normal,Sedatives,2,Breathing Issues,High-Risk Family,Major Stroke,No Diabetes
+225,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,15,5,35,Mildly Enlarged,Tranquilizers,30,Breathing Issues,High-Risk Family,None,Pre-Diabetic
+226,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,18,15,41,Large,Tranquilizers,2,Chronic Nasal Blockage,Moderate Genetic Risk,Minor Stroke,Uncontrolled Diabetes
+227,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,18,0,38,Normal,Tranquilizers,2,Year-round Congestion,High-Risk Family,Stroke Survivor,Pre-Diabetic
+228,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,18,15,48,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,Pre-Diabetic
+229,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,5,38,Large,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Minor Stroke,No Diabetes
+230,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,12,0,45,Large,Narcotic Pain Medicines,0,Year-round Congestion,High-Risk Family,Stroke Survivor,Long-Term Diabetes
+231,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,20,48,Normal,Narcotic Pain Medicines,0,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+232,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,12,5,38,Mildly Enlarged,Alcohol,2,Chronic Nasal Blockage,Mild History,Major Stroke,Pre-Diabetic
+233,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,0,41,Large,Narcotic Pain Medicines,2,Year-round Congestion,Mild History,Minor Stroke,No Diabetes
+234,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,12,15,41,Very Large,Alcohol,2,None,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+235,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,0,45,Large,Sedatives,2,Seasonal Allergies,Strong Genetic Inheritance,Stroke Survivor,Pre-Diabetic
+236,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,22,10,35,Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Pre-Diabetic
+237,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,12,0,48,Very Large,Narcotic Pain Medicines,0,Year-round Congestion,High-Risk Family,Minor Stroke,Pre-Diabetic
+238,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,12,10,48,Large,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,None,Diagnosed Diabetes
+239,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,12,20,35,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,Mild History,Multiple Strokes,No Diabetes
+240,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,12,0,48,Large,Alcohol,0,Year-round Congestion,High-Risk Family,Major Stroke,No Diabetes
+241,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,18,15,38,Large,Narcotic Pain Medicines,2,None,High-Risk Family,Minor Stroke,Pre-Diabetic
+242,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,18,10,35,Very Large,Sedatives,0,None,High-Risk Family,Minor Stroke,Uncontrolled Diabetes
+243,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,18,10,48,Mildly Enlarged,Alcohol,0,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+244,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,18,10,41,Large,Alcohol,0,Chronic Nasal Blockage,Mild History,Multiple Strokes,Pre-Diabetic
+245,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,22,10,48,Very Large,Narcotic Pain Medicines,30,None,High-Risk Family,Stroke Survivor,Long-Term Diabetes
+246,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,18,10,35,Large,Tranquilizers,2,None,Mild History,Stroke Survivor,No Diabetes
+247,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,12,10,38,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Pre-Diabetic
+248,Male,44,Engineer,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia,15,10,48,Large,Sedatives,2,None,High-Risk Family,Minor Stroke,Pre-Diabetic
+249,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,None,15,0,41,Large,Narcotic Pain Medicines,30,Year-round Congestion,High-Risk Family,Minor Stroke,Long-Term Diabetes
+250,Male,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,None,12,10,45,Large,Narcotic Pain Medicines,2,Breathing Issues,Strong Genetic Inheritance,Stroke Survivor,No Diabetes
+251,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,18,10,45,Large,Alcohol,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+252,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,12,15,38,Large,Narcotic Pain Medicines,0,Chronic Nasal Blockage,No History,Stroke Survivor,Long-Term Diabetes
+253,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,12,15,35,Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Stroke Survivor,Pre-Diabetic
+254,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,12,0,41,Very Large,Narcotic Pain Medicines,2,Breathing Issues,Mild History,Multiple Strokes,Uncontrolled Diabetes
+255,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,12,0,38,Very Large,Narcotic Pain Medicines,30,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+256,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,22,10,38,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,Moderate Genetic Risk,Multiple Strokes,Diagnosed Diabetes
+257,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,10,38,Large,Sedatives,20,Year-round Congestion,No History,Stroke Survivor,Pre-Diabetic
+258,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,10,38,Normal,Tranquilizers,2,Breathing Issues,High-Risk Family,Multiple Strokes,Pre-Diabetic
+259,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,22,0,38,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,No History,Multiple Strokes,Diagnosed Diabetes
+260,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,12,0,38,Large,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+261,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,15,15,38,Large,Narcotic Pain Medicines,0,None,Mild History,Stroke Survivor,Diagnosed Diabetes
+262,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,None,18,5,35,Very Large,Narcotic Pain Medicines,0,None,High-Risk Family,Stroke Survivor,Pre-Diabetic
+263,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,None,12,10,38,Normal,Narcotic Pain Medicines,0,Year-round Congestion,Strong Genetic Inheritance,Stroke Survivor,Uncontrolled Diabetes
+264,Female,45,Manager,6.9,7,55,5,Overweight,125/82,75,5500,None,12,0,45,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+265,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,18,15,41,Large,Sedatives,0,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+266,Female,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,48,Very Large,Narcotic Pain Medicines,0,Year-round Congestion,No History,Multiple Strokes,No Diabetes
+267,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,18,10,41,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,High-Risk Family,Multiple Strokes,No Diabetes
+268,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,None,12,15,38,Mildly Enlarged,Alcohol,0,Seasonal Allergies,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+269,Female,49,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,15,5,48,Normal,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,None,Diagnosed Diabetes
+270,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,10,48,Normal,Narcotic Pain Medicines,2,Breathing Issues,High-Risk Family,Minor Stroke,No Diabetes
+271,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,22,10,41,Very Large,Alcohol,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+272,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,22,10,41,Very Large,Tranquilizers,0,Seasonal Allergies,High-Risk Family,Multiple Strokes,Pre-Diabetic
+273,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,5,41,Very Large,Sedatives,2,Seasonal Allergies,High-Risk Family,Multiple Strokes,Pre-Diabetic
+274,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,41,Very Large,Tranquilizers,2,Seasonal Allergies,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+275,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,20,48,Very Large,Narcotic Pain Medicines,20,Seasonal Allergies,Strong Genetic Inheritance,Stroke Survivor,Uncontrolled Diabetes
+276,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,5,48,Mildly Enlarged,Sedatives,20,Seasonal Allergies,Mild History,Stroke Survivor,Diagnosed Diabetes
+277,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,12,0,41,Large,Sedatives,2,None,Mild History,Multiple Strokes,Long-Term Diabetes
+278,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,12,10,45,Very Large,Narcotic Pain Medicines,0,None,Moderate Genetic Risk,Minor Stroke,No Diabetes
+279,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia,12,5,35,Large,Tranquilizers,2,Breathing Issues,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+280,Female,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,22,0,38,Very Large,Sedatives,0,Breathing Issues,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+281,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,None,15,5,35,Large,Narcotic Pain Medicines,30,Chronic Nasal Blockage,Mild History,Major Stroke,No Diabetes
+282,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,15,41,Large,Sedatives,2,Chronic Nasal Blockage,High-Risk Family,Multiple Strokes,Pre-Diabetic
+283,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,41,Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Minor Stroke,No Diabetes
+284,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,10,41,Mildly Enlarged,Sedatives,2,None,No History,Minor Stroke,Pre-Diabetic
+285,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,10,38,Large,Narcotic Pain Medicines,0,Seasonal Allergies,Moderate Genetic Risk,Stroke Survivor,No Diabetes
+286,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,0,35,Very Large,Narcotic Pain Medicines,0,None,High-Risk Family,Minor Stroke,Diagnosed Diabetes
+287,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,38,Large,Alcohol,30,None,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+288,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,10,48,Large,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Stroke Survivor,Pre-Diabetic
+289,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,10,48,Normal,Narcotic Pain Medicines,30,Seasonal Allergies,High-Risk Family,Multiple Strokes,Pre-Diabetic
+290,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,48,Mildly Enlarged,Tranquilizers,30,Seasonal Allergies,Strong Genetic Inheritance,None,Pre-Diabetic
+291,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,15,10,38,Mildly Enlarged,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,Multiple Strokes,Pre-Diabetic
+292,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,38,Normal,Narcotic Pain Medicines,2,Seasonal Allergies,No History,Multiple Strokes,Diagnosed Diabetes
+293,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,48,Very Large,Sedatives,2,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+294,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,0,38,Very Large,Sedatives,2,None,Moderate Genetic Risk,Stroke Survivor,Diagnosed Diabetes
+295,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,15,45,Large,Sedatives,2,None,No History,Minor Stroke,Pre-Diabetic
+296,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,10,48,Normal,Narcotic Pain Medicines,0,Seasonal Allergies,High-Risk Family,Stroke Survivor,Long-Term Diabetes
+297,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,12,5,41,Normal,Sedatives,20,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+298,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,10,41,Mildly Enlarged,Sedatives,0,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+299,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,5,41,Mildly Enlarged,Narcotic Pain Medicines,20,Year-round Congestion,High-Risk Family,Multiple Strokes,Pre-Diabetic
+300,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,18,10,41,Mildly Enlarged,Alcohol,0,Chronic Nasal Blockage,Mild History,Minor Stroke,Pre-Diabetic
+301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,15,10,41,Very Large,Narcotic Pain Medicines,0,Seasonal Allergies,Mild History,Multiple Strokes,Pre-Diabetic
+302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,15,45,Large,Narcotic Pain Medicines,20,Breathing Issues,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+303,Female,51,Nurse,7.1,7,55,6,Normal Weight,125/82,72,6000,None,12,10,45,Very Large,Sedatives,0,Breathing Issues,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+304,Female,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,22,0,45,Large,Tranquilizers,2,Year-round Congestion,No History,Multiple Strokes,Pre-Diabetic
+305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,15,20,41,Very Large,Narcotic Pain Medicines,30,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,18,10,48,Large,Narcotic Pain Medicines,2,None,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,15,10,38,Large,Narcotic Pain Medicines,2,None,High-Risk Family,None,Uncontrolled Diabetes
+308,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,12,0,45,Very Large,Alcohol,2,None,High-Risk Family,Multiple Strokes,Uncontrolled Diabetes
+309,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,12,15,35,Large,Narcotic Pain Medicines,0,Seasonal Allergies,No History,Minor Stroke,Pre-Diabetic
+310,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,18,10,45,Large,Narcotic Pain Medicines,2,Year-round Congestion,Mild History,Multiple Strokes,Long-Term Diabetes
+311,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,15,10,38,Normal,Narcotic Pain Medicines,2,None,High-Risk Family,Multiple Strokes,Pre-Diabetic
+312,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,12,15,41,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Diagnosed Diabetes
+313,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,15,41,Very Large,Alcohol,30,Year-round Congestion,High-Risk Family,Minor Stroke,No Diabetes
+314,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,15,38,Mildly Enlarged,Sedatives,30,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,Long-Term Diabetes
+315,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,15,38,Very Large,Alcohol,2,Seasonal Allergies,Mild History,Multiple Strokes,Diagnosed Diabetes
+316,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia,18,15,48,Very Large,Sedatives,0,Year-round Congestion,No History,Multiple Strokes,No Diabetes
+317,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,0,48,Large,Sedatives,0,None,High-Risk Family,None,Pre-Diabetic
+318,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,15,35,Very Large,Narcotic Pain Medicines,2,None,High-Risk Family,None,Pre-Diabetic
+319,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,15,15,38,Large,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Major Stroke,Long-Term Diabetes
+320,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,20,48,Very Large,Narcotic Pain Medicines,2,None,Moderate Genetic Risk,None,Diagnosed Diabetes
+321,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,15,0,41,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,Strong Genetic Inheritance,Major Stroke,Long-Term Diabetes
+322,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,18,10,48,Large,Sedatives,0,Breathing Issues,No History,Minor Stroke,Diagnosed Diabetes
+323,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,15,35,Very Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Multiple Strokes,Pre-Diabetic
+324,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,10,35,Very Large,Alcohol,30,Year-round Congestion,Mild History,Major Stroke,Diagnosed Diabetes
+325,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,18,15,41,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,High-Risk Family,Stroke Survivor,No Diabetes
+326,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,18,10,35,Very Large,Alcohol,0,None,High-Risk Family,Multiple Strokes,No Diabetes
+327,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,12,10,38,Very Large,Alcohol,2,Breathing Issues,High-Risk Family,Multiple Strokes,No Diabetes
+328,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,15,38,Large,Narcotic Pain Medicines,2,Year-round Congestion,High-Risk Family,Major Stroke,Uncontrolled Diabetes
+329,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,12,10,41,Very Large,Narcotic Pain Medicines,0,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,Pre-Diabetic
+330,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,12,20,48,Mildly Enlarged,Narcotic Pain Medicines,30,Breathing Issues,Mild History,Minor Stroke,Diagnosed Diabetes
+331,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,18,5,41,Large,Narcotic Pain Medicines,20,Seasonal Allergies,Mild History,Minor Stroke,Long-Term Diabetes
+332,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,18,10,38,Large,Narcotic Pain Medicines,2,Year-round Congestion,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+333,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,18,0,35,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Major Stroke,Diagnosed Diabetes
+334,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,0,48,Mildly Enlarged,Sedatives,2,Year-round Congestion,Strong Genetic Inheritance,None,Diagnosed Diabetes
+335,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,18,20,41,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+336,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,15,5,48,Very Large,Narcotic Pain Medicines,0,Year-round Congestion,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+337,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,15,15,48,Large,Narcotic Pain Medicines,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Uncontrolled Diabetes
+338,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,12,10,45,Normal,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,Long-Term Diabetes
+339,Female,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,22,10,35,Mildly Enlarged,Sedatives,20,Year-round Congestion,Mild History,Multiple Strokes,Uncontrolled Diabetes
+340,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,18,0,41,Very Large,Narcotic Pain Medicines,0,None,Strong Genetic Inheritance,Stroke Survivor,Pre-Diabetic
+341,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,12,0,48,Very Large,Tranquilizers,2,None,Mild History,Major Stroke,Diagnosed Diabetes
+342,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,None,12,0,35,Large,Narcotic Pain Medicines,0,Year-round Congestion,Mild History,Stroke Survivor,Pre-Diabetic
+343,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,None,18,10,35,Large,Narcotic Pain Medicines,30,Chronic Nasal Blockage,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+344,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,12,0,48,Very Large,Tranquilizers,30,Chronic Nasal Blockage,High-Risk Family,Minor Stroke,Pre-Diabetic
+345,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,18,15,48,Normal,Narcotic Pain Medicines,0,Breathing Issues,High-Risk Family,Stroke Survivor,Pre-Diabetic
+346,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,22,20,45,Large,Narcotic Pain Medicines,30,Breathing Issues,No History,Multiple Strokes,Diagnosed Diabetes
+347,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,0,41,Very Large,Sedatives,30,Breathing Issues,Moderate Genetic Risk,Multiple Strokes,No Diabetes
+348,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,18,10,35,Mildly Enlarged,Tranquilizers,30,None,High-Risk Family,None,Long-Term Diabetes
+349,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,38,Mildly Enlarged,Narcotic Pain Medicines,30,Year-round Congestion,Mild History,Minor Stroke,Diagnosed Diabetes
+350,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,15,5,41,Large,Narcotic Pain Medicines,2,None,Mild History,None,Pre-Diabetic
+351,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,15,0,48,Large,Narcotic Pain Medicines,2,Year-round Congestion,Strong Genetic Inheritance,Minor Stroke,No Diabetes
+352,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,15,48,Mildly Enlarged,Sedatives,20,Breathing Issues,High-Risk Family,Multiple Strokes,No Diabetes
+353,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,22,10,41,Very Large,Tranquilizers,2,Breathing Issues,Strong Genetic Inheritance,Multiple Strokes,No Diabetes
+354,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,48,Very Large,Tranquilizers,20,None,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+355,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,38,Large,Sedatives,2,Year-round Congestion,Strong Genetic Inheritance,Major Stroke,Pre-Diabetic
+356,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,15,38,Large,Narcotic Pain Medicines,0,Seasonal Allergies,Strong Genetic Inheritance,Multiple Strokes,Diagnosed Diabetes
+357,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,15,5,41,Large,Alcohol,2,None,High-Risk Family,Stroke Survivor,Diagnosed Diabetes
+358,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,38,Very Large,Narcotic Pain Medicines,2,Chronic Nasal Blockage,Strong Genetic Inheritance,Multiple Strokes,Pre-Diabetic
+359,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,None,12,15,35,Large,Narcotic Pain Medicines,2,Seasonal Allergies,No History,Minor Stroke,Uncontrolled Diabetes
+360,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,18,0,48,Large,Narcotic Pain Medicines,0,Year-round Congestion,High-Risk Family,Stroke Survivor,Long-Term Diabetes
+361,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,22,5,35,Mildly Enlarged,Narcotic Pain Medicines,30,Seasonal Allergies,High-Risk Family,Major Stroke,Pre-Diabetic
+362,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,18,10,45,Very Large,Alcohol,2,Seasonal Allergies,Mild History,Multiple Strokes,Pre-Diabetic
+363,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,15,5,48,Very Large,Alcohol,2,Seasonal Allergies,Strong Genetic Inheritance,Minor Stroke,Pre-Diabetic
+364,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,18,0,38,Very Large,Alcohol,2,Breathing Issues,Moderate Genetic Risk,None,Diagnosed Diabetes
+365,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,22,10,48,Very Large,Narcotic Pain Medicines,0,Chronic Nasal Blockage,Mild History,Minor Stroke,Pre-Diabetic
+366,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,41,Very Large,Tranquilizers,2,Year-round Congestion,No History,Multiple Strokes,Diagnosed Diabetes
+367,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,0,38,Very Large,Narcotic Pain Medicines,30,Breathing Issues,Strong Genetic Inheritance,Stroke Survivor,Diagnosed Diabetes
+368,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,15,0,48,Mildly Enlarged,Narcotic Pain Medicines,20,Chronic Nasal Blockage,Strong Genetic Inheritance,Minor Stroke,Diagnosed Diabetes
+369,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,0,35,Large,Narcotic Pain Medicines,30,Chronic Nasal Blockage,Moderate Genetic Risk,Minor Stroke,Uncontrolled Diabetes
+370,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,41,Large,Sedatives,0,Chronic Nasal Blockage,High-Risk Family,Multiple Strokes,Long-Term Diabetes
+371,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,18,20,38,Very Large,Tranquilizers,2,Breathing Issues,High-Risk Family,Stroke Survivor,Pre-Diabetic
+372,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,18,10,45,Very Large,Alcohol,2,Seasonal Allergies,Mild History,Minor Stroke,No Diabetes
+373,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,15,0,38,Very Large,Narcotic Pain Medicines,2,Seasonal Allergies,Moderate Genetic Risk,Multiple Strokes,Pre-Diabetic
+374,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,12,10,41,Normal,Tranquilizers,30,None,Moderate Genetic Risk,Multiple Strokes,No Diabetes
